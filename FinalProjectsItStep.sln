@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{3EB2D8AC-54E8-453C-8DE0-AF9B94E98AED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumber", "GuessTheNumber\GuessTheNumber.csproj", "{1AE60797-B3FB-4079-94FD-3BEB3D8BF6E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3EB2D8AC-54E8-453C-8DE0-AF9B94E98AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EB2D8AC-54E8-453C-8DE0-AF9B94E98AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EB2D8AC-54E8-453C-8DE0-AF9B94E98AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE60797-B3FB-4079-94FD-3BEB3D8BF6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE60797-B3FB-4079-94FD-3BEB3D8BF6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE60797-B3FB-4079-94FD-3BEB3D8BF6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE60797-B3FB-4079-94FD-3BEB3D8BF6E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
