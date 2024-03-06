@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumber", "GuessTheNumber\GuessTheNumber.csproj", "{1AE60797-B3FB-4079-94FD-3BEB3D8BF6E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "ATM\ATM.csproj", "{FCB74ECB-01F2-4913-B74F-1F8D051E0D9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1AE60797-B3FB-4079-94FD-3BEB3D8BF6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AE60797-B3FB-4079-94FD-3BEB3D8BF6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AE60797-B3FB-4079-94FD-3BEB3D8BF6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB74ECB-01F2-4913-B74F-1F8D051E0D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB74ECB-01F2-4913-B74F-1F8D051E0D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB74ECB-01F2-4913-B74F-1F8D051E0D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB74ECB-01F2-4913-B74F-1F8D051E0D9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,2 @@
+// file for user data
+[{"CardNumber":111,"PinCode":111,"Balance":4000.0},{"CardNumber":222,"PinCode":222,"Balance":996.0}]
